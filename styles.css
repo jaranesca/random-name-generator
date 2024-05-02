@@ -5,6 +5,7 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    font-family: "Monoton", sans-serif;
 }
 #displayQuestion {
     margin-top: 20px;
